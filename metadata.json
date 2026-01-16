@@ -1,0 +1,8 @@
+{
+  "name": "Velo - Instant Screen Communication",
+  "description": "High-velocity screen recording, trimming, and analytics. Capture and share your point in seconds.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
