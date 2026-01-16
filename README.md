@@ -3,6 +3,8 @@
 
 Velo is a high-velocity screen recording and sharing platform designed to replace meetings with clear, concise video messages. Built for teams that move fast, it allows users to capture their screen and camera, refine the message, and share it instantly.
 
+Live Demo: https://velo-instant-screen-communication-133768139823.us-west1.run.app/
+
 ## ✨ High-Velocity Features
 
 - **Turbo Recording**: Instant screen + camera + mic capture with a signature floating webcam bubble.
